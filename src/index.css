@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+.arrow-left {
+  width: 270px;
+  position: relative;
+  background-color: #F9EEFF;
+  clip-path: polygon(0 0, 90% 0, 100% 50%, 90% 100%, 0 100%);
+}
+
+.pdf-export * {
+  background: #fff !important;
+  color: #222 !important;
+  background-image: none !important;
+  box-shadow: none !important;
+  filter: none !important;
+}
+
+@media print {
+  body {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  button, .print-hide {
+    display: none !important;
+  }
+}
+

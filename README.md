@@ -1,8 +1,8 @@
-#Travel Planer
+## Travel Planer
 This is designed to make travel planning clear and visually appealing.
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Tailwind CSS for utility-first styling
 - React (functional components & hooks)

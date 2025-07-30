@@ -1,5 +1,5 @@
-## Travel Planer
-This is designed to make travel planning clear and visually appealing.
+## Travel itinerary Generater
+This is designed to make travel planning clear and visually appealing by downloading your itinerary.
 ---
 
 ##  Technologies Used
